@@ -1,0 +1,6 @@
+[submodule "GCD-api"]
+	path = GCD-api
+	url = https://github.com/agrinewsprog/GCD-api.git
+[submodule "GCD-front"]
+	path = GCD-front
+	url = https://github.com/agrinewsprog/GCD-front.git
